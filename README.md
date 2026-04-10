@@ -49,6 +49,7 @@ These are living documents — they improve with real-world feedback.
 Nostr: `npub1yag9ggwzdrekxput74qq66p88wv8r68r2f3lm3znycqqyh408ufs7htp3e`  
 Lightning: `zap@shadowbip.com`
 Web: `https://shadowbip.com`
+Nostr Relay: `wss://relay.shadowbip.com` 
 ---
 
 *Verify everything. Trust nothing you haven't run yourself.*
