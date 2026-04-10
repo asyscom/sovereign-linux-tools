@@ -1,6 +1,6 @@
 # sovereign-linux-tools
 
-> Practical guides for running a sovereign, private, and self-hosted Linux setup.
+Practical guides for running a sovereign, private, and self-hosted Linux setup.
 
 No theory. No marketing. Just working configurations and commands tested on real systems.
 
@@ -43,12 +43,12 @@ These are living documents — they improve with real-world feedback.
 
 ---
 
-
-**shadowbip** — sovereign Bitcoin node operator, cypherpunk.  
+shadowbip — sovereign Bitcoin node operator, cypherpunk.  
 Nostr: `npub1yag9ggwzdrekxput74qq66p88wv8r68r2f3lm3znycqqyh408ufs7htp3e`  
-Lightning: `zap@shadowbip.com`
-Web: `https://shadowbip.com`
-Nostr Relay: `wss://relay.shadowbip.com` 
+Lightning: `zap@shadowbip.com`  
+Web: `https://shadowbip.com`  
+Relay: `wss://relay.shadowbip.com`
+
 ---
 
 *Verify everything. Trust nothing you haven't run yourself.*
