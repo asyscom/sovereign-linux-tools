@@ -17,6 +17,7 @@ No theory. No marketing. Just working configurations and commands tested on real
 | [ssh-hardening](./guides/ssh-hardening.md) | Complete SSH hardening for production Linux servers |
 | [tor-setup](./guides/tor-setup.md) | Complete guide Tor Setup — Running Bitcoin Core and LND over Tor |
 | [tor-transparent-proxy-guide](./guides/tor-transparent-proxy-guide.md) | Complete guide to routing ALL System Traffic Through Tor on Rocky Linux 9 |
+| [Your-Bitcoin-Node-Backup-Is-Probably-Useless] (./guides/Your-Bitcoin-Node-Backup-Is-Probably-Useless.md) Recovery testing, backup validation, and operational resilience for self-hosted nodes.
 
 *More guides coming.*
 
