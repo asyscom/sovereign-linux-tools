@@ -4,6 +4,7 @@ Practical guides for running a sovereign, private, and self-hosted Linux setup.
 
 No theory. No marketing. Just working configurations and commands tested on real systems.
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-pink?logo=github-sponsors)](https://github.com/sponsors/shadowbipnode)
 ---
 
 ## Guides
