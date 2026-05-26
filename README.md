@@ -58,5 +58,7 @@ Web: `https://shadowbip.com`
 Relay: `wss://relay.shadowbip.com`
 
 ---
+[![Sponsor](https://img.shields.io/badge/sponsor-shadowbip-ff69b4?logo=github-sponsors)](https://github.com/sponsors/shadowbipnode)
 
+---
 *Verify everything. Trust nothing you haven't run yourself.*
