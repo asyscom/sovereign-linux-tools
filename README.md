@@ -15,9 +15,10 @@ No theory. No marketing. Just working configurations and commands tested on real
 | [lnd-backup](./guides/lnd-backup.md) | Automated LND backup with GPG encryption and cloud redundancy |
 | [sovereign-backup](./guides/sovereign-backup.md) | Triple-redundant encrypted backup for Bitcoin/Lightning nodes |
 | [ssh-hardening](./guides/ssh-hardening.md) | Complete SSH hardening for production Linux servers |
-| [tor-setup](./guides/tor-setup.md) | Complete guide Tor Setup — Running Bitcoin Core and LND over Tor |
-| [tor-transparent-proxy-guide](./guides/tor-transparent-proxy-guide.md) | Complete guide to routing ALL System Traffic Through Tor on Rocky Linux 9 |
-| [Your-Bitcoin-Node-Backup-Is-Probably-Useless] (./guides/Your-Bitcoin-Node-Backup-Is-Probably-Useless.md) Recovery testing, backup validation, and operational resilience for self-hosted nodes.
+| [tor-setup](./guides/tor-setup.md) | Running Bitcoin Core and LND over Tor |
+| [tor-transparent-proxy-guide](./guides/tor-transparent-proxy-guide.md) | Routing all system traffic through Tor on Rocky Linux 9 |
+| [Your-Bitcoin-Node-Backup-Is-Probably-Useless](./guides/Your-Bitcoin-Node-Backup-Is-Probably-Useless.md) | Recovery testing, backup validation, and operational resilience for self-hosted nodes |
+| [ufw-firewall](./guides/ufw-firewall.md) | Complete UFW firewall setup for Bitcoin/Lightning nodes — close everything you did not open |
 
 *More guides coming.*
 
@@ -27,7 +28,7 @@ No theory. No marketing. Just working configurations and commands tested on real
 
 Full-disk encryption is table stakes.  
 A VPN is not privacy.  
-Self-custody means running your own infrastructure.  
+Self-custody means running your own infrastructure.
 
 These guides cover the practical gap between "I care about privacy" and "my setup actually reflects that."
 
