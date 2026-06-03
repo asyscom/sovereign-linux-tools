@@ -5,6 +5,7 @@ Practical guides for running a sovereign, private, and self-hosted Linux setup.
 No theory. No marketing. Just working configurations and commands tested on real systems.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-pink?logo=github-sponsors)](https://github.com/sponsors/shadowbipnode)
+
 ---
 
 ## Guides
@@ -20,6 +21,7 @@ No theory. No marketing. Just working configurations and commands tested on real
 | [tor-transparent-proxy-guide](./guides/tor-transparent-proxy-guide.md) | Routing all system traffic through Tor on Rocky Linux 9 |
 | [Your-Bitcoin-Node-Backup-Is-Probably-Useless](./guides/Your-Bitcoin-Node-Backup-Is-Probably-Useless.md) | Recovery testing, backup validation, and operational resilience for self-hosted nodes |
 | [ufw-firewall](./guides/ufw-firewall.md) | Complete UFW firewall setup for Bitcoin/Lightning nodes — close everything you did not open |
+| [fail2ban](./guides/fail2ban.md) | Intrusion prevention for Bitcoin/Lightning nodes — automated ban for brute force and repeat offenders |
 
 *More guides coming.*
 
@@ -59,7 +61,9 @@ Web: `https://shadowbip.com`
 Relay: `wss://relay.shadowbip.com`
 
 ---
+
 [![Sponsor](https://img.shields.io/badge/sponsor-shadowbip-ff69b4?logo=github-sponsors)](https://github.com/sponsors/shadowbipnode)
 
 ---
+
 *Verify everything. Trust nothing you haven't run yourself.*
